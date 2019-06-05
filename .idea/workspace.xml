@@ -3,8 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="f9e108fb-5b9b-43b2-b4f6-9fb50f925b43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Attractions/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attractions/Attraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Attractions/Fight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attractions/Fight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Attractions/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attractions/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Attractions/PettingZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attractions/PettingZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Attractions/Ride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attractions/Ride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stalls/Alcohol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stalls/Alcohol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stalls/DinoEggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stalls/DinoEggs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FlightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FlightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Attractions/Attraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Attractions/Attraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Attractions/Fight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Attractions/Fight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Attractions/Flight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Attractions/Flight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Attractions/PettingZoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Attractions/PettingZoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Attractions/Ride.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Attractions/Ride.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stalls/Alcohol.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stalls/Alcohol.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stalls/DinoEggs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stalls/DinoEggs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stalls/Stall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stalls/Stall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RideTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RideTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,80 +34,83 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AlcoholTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Attraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="9">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#899#900#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Ride.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AltJurassicPark/ThemePark.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/RideTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AltJurassicPark/ITicketed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#873#874#0" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="115">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Flight.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AltJurassicPark/IReviewed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="115">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FlightTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Flight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+            <state relative-caret-position="290">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-                <element signature="e#942#943#0" expanded="true" />
-                <element signature="e#997#998#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FlightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#707#708#0" expanded="true" />
+                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#834#835#0" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+                <element signature="e#961#962#0" expanded="true" />
+                <element signature="e#1019#1020#0" expanded="true" />
+                <element signature="e#1145#1146#0" expanded="true" />
+                <element signature="e#1170#1171#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,8 +121,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -115,25 +135,26 @@
         <option value="$PROJECT_DIR$/src/main/java/Visitors.java" />
         <option value="$PROJECT_DIR$/src/main/java/Visitor.java" />
         <option value="$PROJECT_DIR$/src/test/java/VisitorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Attractions/Attraction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Stalls/DinoEggs.java" />
         <option value="$PROJECT_DIR$/src/test/java/DinoEggsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ITicketed.java" />
         <option value="$PROJECT_DIR$/src/main/java/AltJurassicPark/Attractions/PettingZoo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Attraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/AltJurassicPark/ISecurity.java" />
         <option value="$PROJECT_DIR$/src/main/java/AltJurassicPark/IReviewed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Stalls/Alcohol.java" />
         <option value="$PROJECT_DIR$/src/test/java/AlcoholTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Attractions/PettingZoo.java" />
         <option value="$PROJECT_DIR$/src/test/java/PettingZooTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Attractions/Fight.java" />
         <option value="$PROJECT_DIR$/src/test/java/FightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Attractions/Fight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Attractions/PettingZoo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stalls/Alcohol.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stalls/DinoEggs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Attractions/Attraction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AltJurassicPark/ThemePark.java" />
         <option value="$PROJECT_DIR$/src/main/java/Attractions/Ride.java" />
         <option value="$PROJECT_DIR$/src/test/java/RideTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Attractions/Flight.java" />
         <option value="$PROJECT_DIR$/src/test/java/FlightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Attractions/Flight.java" />
       </list>
     </option>
   </component>
@@ -224,7 +245,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559682983905" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559719940390" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
@@ -245,20 +266,19 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.FlightTest">
-    <configuration name="FightTest.isTooYoungToGamble" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AbstractInterfacesPolymorphism" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FightTest" />
-      <option name="METHOD_NAME" value="isTooYoungToGamble" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FlightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AbstractInterfacesPolymorphism" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FlightTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AbstractInterfacesPolymorphism" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RideTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -297,10 +317,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FlightTest" />
+        <item itemvalue="JUnit.RideTest" />
         <item itemvalue="JUnit.RideTest.isNotAllowedToRideARex__TooShort" />
         <item itemvalue="JUnit.RideTest.isNotAllowedToRideARex__TooYoung" />
         <item itemvalue="JUnit.RideTest.isAllowedToRideARex" />
-        <item itemvalue="JUnit.FightTest.isTooYoungToGamble" />
       </list>
     </recent_temporary>
   </component>
@@ -318,15 +338,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_AbstractInterfacesPolymorphism - 2019.06.04 at 16h 11m 45s.xml">
-      <configuration name="All in AbstractInterfacesPolymorphism" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AlcoholTest_isOfLegalAge - 2019.06.04 at 21h 51m 08s.xml">
-      <configuration name="AlcoholTest.isOfLegalAge" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AlcoholTest_willNotServe__Underage - 2019.06.04 at 21h 51m 33s.xml">
-      <configuration name="AlcoholTest.willNotServe__Underage" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PettingZooTest_isYoungEnoughToEnter - 2019.06.04 at 21h 56m 42s.xml">
       <configuration name="PettingZooTest.isYoungEnoughToEnter" configurationId="JUnit" />
     </history-entry>
@@ -348,6 +359,15 @@
     <history-entry file="RideTest_isNotAllowedToRideARex__TooShort - 2019.06.04 at 22h 05m 38s.xml">
       <configuration name="RideTest.isNotAllowedToRideARex__TooShort" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FlightTest - 2019.06.04 at 22h 16m 33s.xml">
+      <configuration name="FlightTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RideTest - 2019.06.05 at 08h 25m 50s.xml">
+      <configuration name="RideTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RideTest - 2019.06.05 at 08h 26m 07s.xml">
+      <configuration name="RideTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="1280" height="712" extended-state="6" />
@@ -358,15 +378,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3294702" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3294702" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.7781457" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.105960265" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -445,32 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/Stall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/DinoEggs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#101#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DinoEggsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -485,19 +479,6 @@
             <element signature="e#436#437#0" expanded="true" />
             <element signature="e#520#521#0" expanded="true" />
             <element signature="e#549#550#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Attraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -517,50 +498,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AltJurassicPark/ITicketed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AltJurassicPark/IReviewed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AltJurassicPark/ISecurity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/Alcohol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#75#76#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/PettingZoo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,18 +535,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Fight.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-380" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AlcoholTest.java">
@@ -622,63 +554,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Ride.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/PettingZoo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+        <state relative-caret-position="138">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/DinoEggs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-380" />
+        <state relative-caret-position="46">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/Alcohol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Fight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/Stall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Attraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AltJurassicPark/ThemePark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Ride.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RideTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="-691">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
             <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
             <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
             <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AltJurassicPark/ITicketed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AltJurassicPark/IReviewed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FlightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1170#1171#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Flight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+        <state relative-caret-position="290">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FlightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -6,7 +6,7 @@ import AltJurassicPark.Visitor;
 public class PettingZoo extends Attraction implements ISecurity {
 
     public PettingZoo(){
-        super("Petting Zoo");
+        super("Petting Zoo", 8);
     }
 
 

@@ -6,7 +6,7 @@ import AltJurassicPark.Visitor;
 public class Fight extends Attraction implements ISecurity {
 
     public Fight(){
-        super("Dinosaur Boxing");
+        super("Dinosaur Boxing", 5);
     }
 
     public boolean isAllowedTo(Visitor visitor) {
